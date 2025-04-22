@@ -1,5 +1,6 @@
-# FUTURE_DS_01
+
 <p align="center">
+  # FUTURE_DS_01
   <img src="https://img.shields.io/badge/Data%20Analytics-Python%20%7C%20Power%20BI%20%7C%20Excel-blue" />
   <img src="https://img.shields.io/badge/Projects-Real--World-success" />
   <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen" />
