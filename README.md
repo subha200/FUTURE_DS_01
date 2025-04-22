@@ -105,7 +105,7 @@ This repository features **three end-to-end data analysis projects** that showca
 
 I'm actively looking for opportunities where I can contribute and grow as a data professional.
 
-- 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://subha200.github.io/portfolio/])
+- 🔗 [Subha Dhar]([https://www.linkedin.com/in/subhadhar/])
 - 📧 dharsubha2000@gmail.com
 - 💬 Feel free to [open an issue]([https://github.com/subha200/FUTURE_DS_01/blob/main/known-issues.txt]) if you have questions or feedback!
 
